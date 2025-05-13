@@ -1,2 +1,2 @@
 # filesmagicaidev
-filesmagicai macos app
+DMG Installer for filesmagicai macos app developed by 1dot.ai
