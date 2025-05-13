@@ -1,0 +1,2 @@
+# filesmagicaidev
+filesmagicai macos app
